@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Hell_Part_1.unity
+    guid: 295404ed55477d24baadc3c343c64292
+  - enabled: 1
+    path: Assets/Scenes/Ice_World.unity
+    guid: ab1fe3df43194d145a73a16defc63429
+  - enabled: 1
+    path: Assets/Scenes/Desert.unity
+    guid: ce95021e839533e4e8b8f7cfef49008f
+  - enabled: 1
+    path: Assets/Scenes/Future_World.unity
+    guid: 158d220237da36746b014f5b38cf8af9
+  - enabled: 1
+    path: Assets/Scenes/Lava_Zone.unity
+    guid: 048d823b64389b343a67eab9ddf61cb8
   m_configObjects: {}
