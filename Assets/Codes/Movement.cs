@@ -67,7 +67,6 @@ public class Movement : MonoBehaviour
                     }
                 }
 
-
                 //Check if selectable cube is a portal
                 if(hitInfo.collider.gameObject.name == "Portal")
                 {
